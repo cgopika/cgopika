@@ -1,4 +1,14 @@
-## Hi there 👋
+# Gopika C
+
+B.Tech IT Student | UI/UX Design Learner
+
+Currently building:
+- 📱 ClassConnect Mobile
+- 💻 ClassConnect Admin
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase, Git, GitHub, Figma
+
+📍 Kerala, India
 
 <!--
 **cgopika/cgopika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
